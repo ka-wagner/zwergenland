@@ -3,7 +3,7 @@
   command = "hugo --gc --minify"
 
 [build.environment]
-  HUGO_THEME = "jane"
+  HUGO_THEME = "hugo-html5up-alpha"
   HUGO_BASEURL = "/"
 
 [context.production.environment]
