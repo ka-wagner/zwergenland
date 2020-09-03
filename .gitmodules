@@ -1,6 +1,0 @@
-[submodule "themes/alpha-church"]
-	path = themes/alpha-church
-	url = https://github.com/funkydan2/alpha-church.git
-[submodule "themes/hugo-business-frontpage-theme"]
-	path = themes/hugo-business-frontpage-theme
-	url = https://github.com/cowboysmall-tools/hugo-business-frontpage-theme.git
