@@ -1,0 +1,93 @@
+# Page settings
+baseURL = "https://zwergenland-chemnitz.de"
+languageCode = "de"
+DefaultContentLanguage = "de"
+title = "Kindertagesstätte Zwergenland Chemnitz e.V."
+theme = "zwerg-theme"
+googleAnalytics = ""
+
+[params]
+    author = "Kindertagesstätte Zwergenland Chemnitz e.V."
+    description = "Kindertagesstätte Zwergenland Chemnitz e.V."
+
+    [params.navbar]
+        name = "Startseite"
+        url = "#"
+
+        [[params.navbar.nav]]
+        current = true
+        name = "Verein"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "Über uns"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "Besonderheiten"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "Kontakt"
+        url = "#"
+
+    [params.header]
+        name = "Zwergenland Chemnitz"
+        tagline = ""
+
+    [params.summary]
+        url = "#"
+
+        [params.summary.description]
+
+        [[params.summary.description.items]]
+        description = "Das Zwergenland wurde 1997 von Eltern als Verein gegründet, um die Kindergartenzeit ihrer Kinder selbst zu gestalten. Die Initiative fand schnell Zuspruch und so arbeiten Eltern und Erzieher seit vielen Jahren aktiv zusammen und bestimmen das Geschehen im Kindergarten. Heute werden 46 Kinder in zwei Gruppen (1 Gruppe für Kinder über 3 Jahre und 1 Gruppe für Kinder unter 3 Jahre) liebevoll und fürsorglich betreut."
+
+        [params.summary.contact]
+        name = "Kindertagesstätte Zwergenland e.V."
+        address1 = "Reichenhainer Str. 33a"
+        address2 = "09126 Chemnitz"
+        phone = "+49 371 56 11 821"
+        email = "info@zwergenland-chemnitz.de"
+
+    [params.projects]
+
+        [[params.projects.sections]]
+        title = "Section 1"
+
+        [[params.projects.sections.rows]]
+        title = "Section 1, Row 1"
+
+        [[params.projects.sections.rows.items]]
+        title = "Card title 1"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+        url = "#"
+        # image = "image.png"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 2"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
+        url = "#"
+        # image = "image.png"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 3"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque."
+        url = "#"
+        # image = "image.png"
+
+        [[params.projects.sections.rows]]
+        # title = "Section 1, Row 2"
+
+        [[params.projects.sections.rows.items]]
+        title = "Card title 4"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+        url = "#"
+        # image = "image.png"
+        [[params.projects.sections.rows.items]]
+        title = "Card title 5"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut."
+        url = "#"
+        # image = "image.png"
+
+
+    [params.footer]
+        copyright = "Zwergenland Chemnitz e.V."
+
+
+

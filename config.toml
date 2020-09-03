@@ -1,0 +1,79 @@
+####### This is an EXAMPLE config file!!
+####### Changes made here will not effect demo site
+
+baseURL = "https://zwergenland-chemnitz.de"
+languageCode = "de"
+DefaultContentLanguage = "de"
+title = "Kindertagesstätte Zwergenland"
+theme = "hugo-html5up-alpha"
+disqusShortname = ""
+
+[params]
+  description = "Elternvereinsgeführte Kindertagesstätte in Chemnitz"
+  author = "[Hugo Port]: (https://github.com/dewittn/hugo-html5up-alpha)"
+  copyright = "© Zwergenland Chemnitz e.V."
+  design = "Design: [HTML5 UP](http://html5up.net/)"
+  #mainSections = ["highlight"]
+
+### Footer Social Media Links ###
+#[[params.share]]
+#title = "facebook"
+#icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
+#link = "https://www.facebook.com/"
+
+#[[params.share]]
+#tile = "twitter"
+#icon = "fa-twitter"
+#link = "https://twitter.com/"
+
+#[[params.share]]
+#title = "linkedin"
+#icon = "fa-linkedin"
+#link = "https://www.linkedin.com"
+
+### For Pages the .RelPermalink must match the menu .URL
+### For sections the name/directory must match the menu .Identifier
+[menu]
+  [[menu.main]]
+    identifier = "konzept"
+    name = "Konzept"
+    url = "/konzept/"
+    weight = 10
+  [[menu.main]]
+    identifier = "rundgang"
+    name = "Rundgang"
+    url = "/rundgang/"
+    weight = 30
+  [[menu.main]]
+    identifier = "verein"
+    name = "Verein"
+    url = "/verein/"
+    weight = 40
+  [[menu.main]]
+    identifier = "team"
+    name = "Jobs"
+    url = "/jobs/"
+    weight = 45
+  [[menu.main]]
+    parent = "verein"
+    identifier = "vorstand"
+    name = "Vorstand"
+    url = "/vorstand/"
+    weight = 53
+  [[menu.main]]
+    parent = "verein"
+    identifier = "mitgliedwerden"
+    name = "Mitglied werden"
+    url = "#"
+    weight = 55
+  [[menu.main]]
+    parent = "verein"
+    identifier = "newsletters"
+    name = "Vereins-Newsletter"
+    url = "/newsletters/"
+    weight = 56
+  [[menu.main]]
+    identifier = "impressum"
+    name = "Impressum"
+    url = "/kontakt/"
+    weight = 99
