@@ -8,7 +8,7 @@ draft: false
 
 ## Kita Newsletter
 
-Hier teilt unser ErzieherInnen-Team wichtige Informationen für den Kita-Alltag.
+Hier teilt unser Erzieher*innen-Team wichtige Informationen für den Kita-Alltag.
 
 {{< rawhtml >}}
 <iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/5lUD/EXG" width="100%"></iframe>

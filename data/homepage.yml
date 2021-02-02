@@ -1,7 +1,7 @@
 ### Banner ###
 banner:
   enable: true
-  image: 'images/banner.jpg'
+  image: "images/banner.jpg"
   title: "Zwergenland Chemnitz"
   content: "" # Change this if you want something other then the site description
   buttons:
@@ -11,7 +11,6 @@ banner:
       link: "/kontakt/"
     - title: "Unser Konzept"
       link: "/konzept/"
-    
 
 ### Highlight ###
 highlight:
@@ -25,22 +24,22 @@ features:
   enable: true
   rows:
     - items:
-      - title: "Öffnungszeiten"
-        icon: "fa-bolt"
-        accent: "accent2" #accent values are 1-8
-        content: "Wochentags von 6-18 Uhr ohne feste Hol- und Bringezeiträume"
-      - title: "Keine Sommerschließzeiten"
-        icon: "fa-chart-area"
-        accent: "accent3" #accent values are 1-8
-        content: "Wir schließen pro Jahr zwei Tage für die pädagosche Weiterbildung unseres Personals und zwischen Weihnachten und Neujahr."
+        - title: "Öffnungszeiten"
+          icon: "fa-clock"
+          accent: "accent2" #accent values are 1-8
+          content: "Wochentags von 6-18 Uhr ohne feste Hol- und Bringezeiträume"
+        - title: "Keine Sommerschließzeiten"
+          icon: "fa-sun"
+          accent: "accent5" #accent values are 1-8
+          content: "Wir schließen pro Jahr zwei Tage für die pädagosche Weiterbildung unseres Personals und zwischen Weihnachten und Neujahr."
     - items:
-        - title: "Enge Zusammenarbeit von Träger und ErzieherInnen-Team"
-          icon: "fa-cloud"
+        - title: "Enge Zusammenarbeit von Träger und Erzieher*innen-Team"
+          icon: "fa-handshake"
           accent: "accent4" #accent values are 1-8
           content: "In regelmäßigen Treffen entscheiden Leitung und Vorstand des Trägervereins über Ablauf, Anschaffungen und andere Dinge."
         - title: "Unser Bild vom Kind"
-          icon: "fa-lock"
-          accent: "accent5" #accent values are 1-8
+          icon: "fa-child"
+          accent: "accent3" #accent values are 1-8
           content: "Kinder sind Entdecker. Diesen Entdeckerdrang wollen wir unterstützen und Fördern. Dabei stehen die Bedürfnisse des Kindes für uns immer mit Mittelpunkt unseres Handelns."
 
 ### Blog ###
@@ -49,6 +48,6 @@ blog:
 
 ### Call to Action ###
 cta:
-   enable: false
+  enable: false
 #  header: "Sign up for beta access"
 #  content: "Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc."

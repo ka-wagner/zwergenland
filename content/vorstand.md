@@ -4,6 +4,6 @@ title: "Vereinsvorstand"
 draft: false
 ---
 
-Unser Verein Zwergenland e.V. ist Träger der gleichnamigen Kindertagesstätte. In unserer Verantwortung liegt die Betriebsführung der Einrichtung. Für die aktive Mitarbeit im Vorstand und in den Ausschüssen suchen wir daher immer wieder engagierte Eltern. Wollen Sie mitwirken oder uns kontaktieren, sprechen Sie eine unserer Erzieherinnen und Erzieher an, sie verweisen Sie gerne an uns weiter.
+Unser Verein Zwergenland e.V. ist Träger der gleichnamigen Kindertagesstätte. In unserer Verantwortung liegt die Betriebsführung der Einrichtung. Für die aktive Mitarbeit im Vorstand und in den Ausschüssen suchen wir daher immer wieder engagierte Eltern. Wollen Sie mitwirken oder uns kontaktieren, sprechen Sie eine unserer Erzieher*innen und Erzieher an, sie verweisen Sie gerne an uns weiter.
 
 **Sie können uns auch gern per E-Mail an vorstand@zwergenland-chemnitz.de kontaktieren.**

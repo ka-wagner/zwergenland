@@ -11,7 +11,7 @@ Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termi
 ### Qualifikation
 
 - Abschluss als Staatlich anerkannte Erzieherin/Staatlich anerkannter Erzieher oder adäquater anerkannter Abschluss nach § 1 SächsQualiVO
-- Curriculum für Erzieherinnen zur Umsetzung des Bildungsauftrages in Kindereinrichtungen im Freistaat Sachsen wünschenswert
+- Curriculum für Erzieher*innen zur Umsetzung des Bildungsauftrages in Kindereinrichtungen im Freistaat Sachsen wünschenswert
 
 ### Das bieten wir
 

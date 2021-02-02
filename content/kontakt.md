@@ -6,16 +6,16 @@ draft: false
 
 ## Kontakt in die Kita
 
-Telefon: +49 (371) 56 11 821 -
-E-Mail: [info@zwergenland-chemnitz.de](info@zwergenland-chemnitz.de)
+Telefon: +49 (371) 56 11 821 - E-Mail: [info@zwergenland-chemnitz.de](info@zwergenland-chemnitz.de)
 
 ## Impressum
 
 {{< rawhtml >}}
 Kindertagesstätte "Zwergenland" e.V. Chemnitz </br>
 Reichenhainer Str. 33a </br></br>
-09126 Chemnitz
+09126 Chemnitz </br></br>
 {{< /rawhtml >}}
+Email: [vorstand@zwergenland-chemnitz.de](vorstand@zwergenland-chemnitz.de)
 
 ## Datenschutzerkärung
 
