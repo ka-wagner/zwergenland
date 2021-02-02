@@ -68,9 +68,9 @@ disqusShortname = ""
     weight = 55
   [[menu.main]]
     parent = "verein"
-    identifier = "newsletters"
+    identifier = "newsletter"
     name = "Vereins-Newsletter"
-    url = "/newsletters/"
+    url = "/newsletter/"
     weight = 56
   [[menu.main]]
     identifier = "impressum"
