@@ -18,7 +18,7 @@ highlight:
   enable: true
   header: "Herzlich Willkommen im Zwergenland"
   content: "Das Zwergenland wurde 1997 von Eltern als Verein gegründet, um die Kindergartenzeit ihrer Kinder selbst zu gestalten. Die Initiative fand schnell Zuspruch und so arbeiten Eltern und Erzieher seit vielen Jahren aktiv zusammen und bestimmen das Geschehen im Kindergarten. Heute werden 46 Kinder in zwei Gruppen (Eine Gruppe für Kinder über 3 Jahre und eine Gruppe für Kinder unter 3 Jahre) liebevoll und fürsorglich betreut."
-  image: "images/banner2.jpg"
+  # image: "images/banner2.jpg"
 
 ### Features ###
 features:
