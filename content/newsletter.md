@@ -17,6 +17,7 @@ Hier teilt unser ErzieherInnen-Team wichtige Informationen für den Kita-Alltag.
 {{< /rawhtml >}}
 
 -->
+<!--
 
 ## Vereins Newsletter
 
@@ -27,3 +28,4 @@ Hier teilt der Vorstand wichtige Informationen aus dem Vereins- und Vorstandsarb
 
 <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 {{< /rawhtml >}}
+-->
