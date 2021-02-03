@@ -35,9 +35,9 @@ disqusShortname = ""
 ### For sections the name/directory must match the menu .Identifier
 [menu]
   [[menu.main]]
-    identifier = "konzept"
-    name = "Konzept"
-    url = "/konzept/"
+    identifier = "konzeption"
+    name = "Konzeption"
+    url = "/konzeption/"
     weight = 10
   [[menu.main]]
     identifier = "rundgang"
