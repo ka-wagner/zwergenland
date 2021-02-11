@@ -1,5 +1,5 @@
 title: "Kindertagesstätte Zwergenland"
-#button:
-#  enable: true
-#  title: "Newsletter abonieren"
-#  link: "/newsletter/"
+button:
+  enable: true
+  title: "Newsletter abonieren"
+  link: "/newsletter/"
