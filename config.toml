@@ -60,12 +60,12 @@ disqusShortname = ""
     name = "Vorstand"
     url = "/vorstand/"
     weight = 53
-  [[menu.main]]
-    parent = "verein"
-    identifier = "mitgliedwerden"
-    name = "Mitglied werden"
-    url = "#"
-    weight = 55
+  # [[menu.main]]
+  #   parent = "verein"
+  #   identifier = "mitgliedwerden"
+  #   name = "Mitglied werden"
+  #   url = "#"
+  #   weight = 55
   [[menu.main]]
     parent = "verein"
     identifier = "newsletter"
