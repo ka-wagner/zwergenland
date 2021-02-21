@@ -8,6 +8,7 @@ draft: false
 
 Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termin eine Erzieherin bzw. einen Erzieher für unsere Kindertagesstätte in Chemnitz, Reichenhainer Straße 33a. Unser Kindergarten ist im Rahmen einer **Elterninitiative** organisiert. Hier werden zurzeit **46 Kinder** von einem siebenköpfigen pädagogischen Kollegium im getrennten Kleinkinder- (1-3) und Kindergartenbereich (3-6) konfessionsfrei betreut. Wir bieten eine interessante und verantwortungsvolle Tätigkeit mit maßgeblichem eigenem Gestaltungsspielraum. [zwergenland-chemnitz.de](www.zwergenland-chemnitz.de)
 
+Die Stelle ist zunächst bis zum 31.12.2021 befristet. Wir bieten eine 31 Std. Arbeitswoche.
 ### Qualifikation
 
 - Abschluss als Staatlich anerkannte Erzieherin/Staatlich anerkannter Erzieher oder adäquater anerkannter Abschluss nach § 1 SächsQualiVO
