@@ -6,6 +6,6 @@ draft: false
 
 # Unsere Konzeption
 
-Die Konzeption und das Leitbild unserer Pädagogischen arbeit können sie als PDF herunterladen.
+Die Konzeption und das Leitbild unserer pädagogischen Arbeit können Sie als PDF herunterladen.
 
 [PDF Download - Konzeption der Kindertagesstätte Zwergenland e.V.](/content/KitaZwergenland-Konzeption.pdf)
