@@ -1,28 +1,30 @@
 ---
 title: "Jobs"
 #date: 2020-09-01T20:33:03+02:00
-draft: true
+draft: false
 ---
 
 ## Stellenausschreibung Erzieher (m/w/d)
 
-Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termin eine Erzieherin bzw. einen Erzieher für unsere Kindertagesstätte in Chemnitz, Reichenhainer Straße 33a. Unser Kindergarten ist im Rahmen einer **Elterninitiative** organisiert. Hier werden zurzeit **46 Kinder** von einem siebenköpfigen pädagogischen Kollegium im getrennten Kleinkinder- (1-3) und Kindergartenbereich (3-6) konfessionsfrei betreut. Wir bieten eine interessante und verantwortungsvolle Tätigkeit mit maßgeblichem eigenem Gestaltungsspielraum. [zwergenland-chemnitz.de](www.zwergenland-chemnitz.de)
+Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termin eine Erzieherin bzw. einen Erzieher für unsere Kindertagesstätte in Chemnitz, Reichenhainer Straße 33a.
+Unser Kindergarten ist im Rahmen einer Elterninitiative organisiert. Hier werden zurzeit 46 Kinder von einem siebenköpfigen pädagogischen Kollegium im getrennten Kleinkinder- (1-3 Jahre) und Kindergartenbereich (3-6 Jahre) konfessionsfrei betreut.
+Wir bieten eine interessante und verantwortungsvolle Tätigkeit mit maßgeblichem eigenen Gestaltungsspielraum. (www.zwergenland-chemnitz.de)
 
 ### Qualifikation
 
-- Abschluss als Staatlich anerkannte Erzieherin/Staatlich anerkannter Erzieher oder adäquater anerkannter Abschluss nach § 1 SächsQualiVO
+- Abschluss als Staatlich anerkannte Erzieherin/Staatlich anerkannter Erzieher oder adäquater Abschluss nach §1 SächsQualiVO
 - Curriculum für Erzieher*innen zur Umsetzung des Bildungsauftrages in Kindereinrichtungen im Freistaat Sachsen wünschenswert
 
 ### Das bieten wir
 
-- Befristete Schwangerschaftsvertretung bis 14.04.2021 (anschließende Entfristung möglich)
+- befristete Schwangerschaftsvertretung bis 31.12.2022 (anschließende Verlängerung möglich)
 - Arbeit in einem familiären Team
 - Bezahlung in Anlehnung an den TVöD SuE (S8a)
 - Jahressonderzahlung
 - 30 Tage Urlaub
 - Arbeit im Gruppendienst mit Gestaltungsspielraum
-- Vollzeitstelle im Rahmen von 30 – 38h/Woche
-- Verlässliche Dienstplanung und fester Einsatzort
+- Teilzeitstelle im Rahmen von 28-32h/Woche
+- verlässliche Dienstplanung und fester Einsatzort
 - Möglichkeit zur Weiterbildung
 
 ### Das sollten Sie mitbringen
@@ -33,22 +35,20 @@ Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termi
 - Verantwortungsbewusstsein
 - Teamfähigkeit
 - engagierte, kooperative, kommunikative, aufgeschlossene Persönlichkeit
-- Flexibilität (Elternabende und Dienstberatungen)
+- Flexibilität (Elternabende und Teamberatungen)
 - kreative, sportliche und/oder musische Fähigkeiten
+
+## Bewerbung
 
 Wir freuen uns darauf, Sie kennenzulernen!
 
-Bitte senden Sie Ihre vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf sowie Nachweis der Qualifikation in Kopie) an:
+Bitte senden Sie ihre vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf sowie Nachweis der Qualifikation in Kopie) an:
 
-Kindergarten Zwergenland e.V.
+Kindertagesstätte Zwergenland e.V.
 z.Hd. Vereinsvorstand
-Reichenhainer Str. 33a
+Reichenhainer Straße 33a
 09126 Chemnitz
 
-oder per Mail an:
+der per Mail an:
 
-Vereinsvorstand vorstand@zwergenland-chemnitz.de
-
-## Praktika
-
-Wir bieten Praktikanten die Möglichkeit in unsere Arbeitswelt hinein zu schnuppern, uns und unsere Kinder besser kennen zu lernen und natürlich sich selbst im Beruf auszuprobieren.
+vorstand@zwergenland-chemnitz.de

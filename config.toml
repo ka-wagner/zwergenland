@@ -49,11 +49,11 @@ disqusShortname = ""
     name = "Verein"
     url = "/verein/"
     weight = 40
- # [[menu.main]]
- #   identifier = "team"
- #   name = "Jobs"
- #   url = "/jobs/"
- #   weight = 45
+  [[menu.main]]
+    identifier = "team"
+    name = "Jobs"
+    url = "/jobs/"
+    weight = 45
   [[menu.main]]
     parent = "verein"
     identifier = "vorstand"
