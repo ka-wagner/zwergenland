@@ -17,6 +17,10 @@ Reichenhainer Str. 33a </br></br>
 {{< /rawhtml >}}
 Email: [vorstand@zwergenland-chemnitz.de](vorstand@zwergenland-chemnitz.de)
 
-## Datenschutzerkärung
+## Datenschutzeklärung
 
 Du findet unsere [Datenschutzerklärung hier]({{< ref "datenschutz" >}})
+
+## Fotos
+
+Bilder aus unserer Einrichtung wurden uns freundlicher Weise von unserem Kita-Fotografen [Thoralf Obst und Kleine Sternchen](https://www.kleine-sternchen.net/) zur Verfügung gestellt.
