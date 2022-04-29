@@ -8,5 +8,5 @@ draft: false
 
 Unsere Einrichtung besteht aus vier modern ausgestatteten Gruppenzimmern. Hinter dem Kindergarten befindet sich ein großzügig angelegter Spielplatz mit verschiedenen Spielgeräten, Sandkästen und einem Rodelberg.
 
-{{< gallery dir="images/rundgang" />}}`
+{{< gallery dir="/images/rundgang" />}}`
 {{< load-photoswipe >}}
