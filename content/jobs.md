@@ -4,51 +4,49 @@ title: "Jobs"
 draft: false
 ---
 
-## Stellenausschreibung Erzieher (m/w/d)
+## Stellenausschreibung Erzieher (m/w/d) im Kindergartenverein Zwergenland (befristet)
 
-Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termin eine Erzieherin bzw. einen Erzieher für unsere Kindertagesstätte in Chemnitz, Reichenhainer Straße 33a.
-Unser Kindergarten ist im Rahmen einer Elterninitiative organisiert. Hier werden zurzeit 46 Kinder von einem siebenköpfigen pädagogischen Kollegium im getrennten Kleinkinder- (1-3 Jahre) und Kindergartenbereich (3-6 Jahre) konfessionsfrei betreut.
-Wir bieten eine interessante und verantwortungsvolle Tätigkeit mit maßgeblichem eigenen Gestaltungsspielraum. (www.zwergenland-chemnitz.de)
+Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termin eine Erzieherin bzw. einen Erzieher für unsere Kindertagesstätte in Chemnitz, Reichenhainer Straße 33a. Unser Kindergarten ist im Rahmen einer Elterninitiative organisiert. Hier werden zurzeit 44 Kinder von einem  siebenköpfigen pädagogischen  Kollegium im getrennten Kleinkinder- (1-3) und Kindergartenbereich (3-6) konfessionsfrei betreut. Wir bieten eine interessante und verantwortungsvolle Tätigkeit mit maßgeblichem eigenem Gestaltungsspielraum. (www.zwergenland-chemnitz.de)
 
 ### Qualifikation
 
-- Abschluss als Staatlich anerkannte Erzieherin/Staatlich anerkannter Erzieher oder adäquater Abschluss nach §1 SächsQualiVO
-- Curriculum für Erzieher*innen zur Umsetzung des Bildungsauftrages in Kindereinrichtungen im Freistaat Sachsen wünschenswert
+* Abschluss als Staatlich anerkannte Erzieherin/Staatlich anerkannter Erzieher oder adäquater anerkannter Abschluss nach § 1 SächsQualiVO
+* Curriculum für Erzieherinnen zur Umsetzung des Bildungsauftrages in Kindereinrichtungen im Freistaat Sachsen wünschenswert
+* Heilpädagogische Zusatzqualifikation (HPZ) wünschenswert aber keine Voraussetzung
 
 ### Das bieten wir
 
-- befristete Schwangerschaftsvertretung bis 31.12.2022 (anschließende Verlängerung möglich)
-- Arbeit in einem familiären Team
-- Bezahlung in Anlehnung an den TVöD SuE (S8a)
-- Jahressonderzahlung
-- 30 Tage Urlaub
-- Arbeit im Gruppendienst mit Gestaltungsspielraum
-- Teilzeitstelle im Rahmen von 28-32h/Woche
-- verlässliche Dienstplanung und fester Einsatzort
-- Möglichkeit zur Weiterbildung
+* Arbeit in einem familiären Team
+* Bezahlung in Anlehnung an den TVöD SuE (S8a)
+* Jahressonderzahlung
+* 30 Tagen Urlaub
+* Arbeit im Gruppendienst mit Gestaltungsspielraum
+* Befristetes Arbeitsverhältnis mit Arbeitsstunden zw. 28 – 35h/Woche bis vorerst März 2023 (Möglichkeit auf Verlängerung)
+* Verlässliche Dienstplanung
+* Möglichkeit zur Weiterbildung
+* Betriebliche Altersvorsorge
 
 ### Das sollten Sie mitbringen
 
-- fundiertes pädagogisches Fachwissen zur frühkindlichen Bildung und Förderung
-- einfühlsamer, wertschätzender, liebevoll und konsequenter Umgang mit den anvertrauten Kindern
-- Zuverlässigkeit und Einsatzbereitschaft
-- Verantwortungsbewusstsein
-- Teamfähigkeit
-- engagierte, kooperative, kommunikative, aufgeschlossene Persönlichkeit
-- Flexibilität (Elternabende und Teamberatungen)
-- kreative, sportliche und/oder musische Fähigkeiten
-
-## Bewerbung
+* fundiertes pädagogisches Fachwissen zur frühkindlichen Bildung und Förderung
+* einfühlsamer, wertschätzender, liebevoll und konsequenter Umgang mit den anvertrauten Kindern
+* Zuverlässigkeit und Einsatzbereitschaft
+* Verantwortungsbewusstsein
+* Teamfähigkeit
+* engagierte, kooperative, kommunikative, aufgeschlossene Persönlichkeit
+* Flexibilität (Elternabende und Dienstberatungen)
+* kreative, sportliche und/oder musische Fähigkeiten
 
 Wir freuen uns darauf, Sie kennenzulernen!
 
-Bitte senden Sie ihre vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf sowie Nachweis der Qualifikation in Kopie) an:
+Bitte senden Sie Ihre vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf sowie Nachweis der Qualifikation in Kopie) an:
 
-Kindertagesstätte Zwergenland e.V.
+Kindergarten Zwergenland e.V.
 z.Hd. Vereinsvorstand
-Reichenhainer Straße 33a
+Reichenhainer Str. 33a
 09126 Chemnitz
+0371/5611821
 
-der per Mail an:
+oder per Mail an:
 
-vorstand@zwergenland-chemnitz.de
+[Vereinsvorstand vorstand@zwergenland-chemnitz.de](mailto:vorstand@zwergenland-chemnitz.de)
