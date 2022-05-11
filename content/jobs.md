@@ -49,4 +49,4 @@ Reichenhainer Str. 33a
 
 oder per Mail an:
 
-[Vereinsvorstand vorstand@zwergenland-chemnitz.de](mailto:vorstand@zwergenland-chemnitz.de)
+[vorstand@zwergenland-chemnitz.de](mailto:vorstand@zwergenland-chemnitz.de)
