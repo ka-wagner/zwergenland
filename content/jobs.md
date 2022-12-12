@@ -6,23 +6,22 @@ draft: false
 
 ## Stellenausschreibung Erzieher (m/w/d) im Kindergartenverein Zwergenland (befristet)
 
-Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termin eine Erzieherin bzw. einen Erzieher für unsere Kindertagesstätte in Chemnitz, Reichenhainer Straße 33a. Unser Kindergarten ist im Rahmen einer Elterninitiative organisiert. Hier werden zurzeit 44 Kinder von einem  siebenköpfigen pädagogischen  Kollegium im getrennten Kleinkinder- (1-3) und Kindergartenbereich (3-6) konfessionsfrei betreut. Wir bieten eine interessante und verantwortungsvolle Tätigkeit mit maßgeblichem eigenem Gestaltungsspielraum. (www.zwergenland-chemnitz.de)
+Wir, der Kindergartenverein Zwergenland e.V., suchen zum nächstmöglichen Termin eine Erzieherin bzw. einen Erzieher für unsere Kindertagesstätte in Chemnitz, Reichenhainer Straße 33a. Unser Kindergarten ist im Rahmen einer Elterninitiative organisiert. Hier werden zurzeit 46 Kinder von einem  achtköpfigen pädagogischen  Kollegium im getrennten Kleinkinder- (1-3) und Kindergartenbereich (3-6) konfessionsfrei betreut. Wir bieten eine interessante und verantwortungsvolle Tätigkeit mit maßgeblichem eigenem Gestaltungsspielraum. (www.zwergenland-chemnitz.de)
 
 ### Qualifikation
 
 * Abschluss als Staatlich anerkannte Erzieherin/Staatlich anerkannter Erzieher oder adäquater anerkannter Abschluss nach § 1 SächsQualiVO
 * Curriculum für Erzieherinnen zur Umsetzung des Bildungsauftrages in Kindereinrichtungen im Freistaat Sachsen wünschenswert
-* Heilpädagogische Zusatzqualifikation (HPZ) wünschenswert aber keine Voraussetzung
 
 ### Das bieten wir
 
+* Befristetes Arbeitsverhältnis mit Arbeitsstunden zw. 30 – 35h/Woche bis vorerst Ende Dezember 2023 (Möglichkeit auf Entfristung)
 * Arbeit in einem familiären Team
 * Bezahlung in Anlehnung an den TVöD SuE (S8a)
 * Jahressonderzahlung
-* 30 Tagen Urlaub
+* 30 Tagen Urlaub + 2 Erholungstage pro Jahr
 * Arbeit im Gruppendienst mit Gestaltungsspielraum
-* Befristetes Arbeitsverhältnis mit Arbeitsstunden zw. 28 – 35h/Woche bis vorerst März 2023 (Möglichkeit auf Verlängerung)
-* Verlässliche Dienstplanung
+* Verlässliche Dienstplanung und fester Einsatzort
 * Möglichkeit zur Weiterbildung
 * Betriebliche Altersvorsorge
 
