@@ -14,6 +14,13 @@ Hier teilt unser Erzieher*innen Team wichtige Informationen für den Kita Alltag
 <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 {{< /rawhtml >}}
 
+
+{{< rawhtml >}}
+<iframe data-w-type="embedded" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://x81jp.mjt.lu/wgt/x81jp/0wj/form?c=7156436b" width="100%"></iframe>
+
+<script type="text/javascript" src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>
+{{< /rawhtml >}}
+
 ## Newsletter Verein
 
 Hier teilt der Vorstand wichtige Informationen aus der Vereins- und Vorstandsarbeit.
@@ -22,4 +29,10 @@ Hier teilt der Vorstand wichtige Informationen aus der Vereins- und Vorstandsarb
 <iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/6tsW/HBj" width="100%"></iframe>
 
 <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<iframe data-w-type="embedded" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://x81jp.mjt.lu/wgt/x81jp/0wq/form?c=1ee44ca3" width="100%"></iframe>
+
+<script type="text/javascript" src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>
 {{< /rawhtml >}}
