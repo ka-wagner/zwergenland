@@ -26,7 +26,7 @@ jobs:
       run: hugo -D --minify
 
     - name: Deploy to FTP
-      uses: SamKirkland/FTP-Deploy-Action@4.2.0
+      uses: SamKirkland/FTP-Deploy-Action@4.3.4
       with:
         server: ngcobalt387.manitu.net
         port: 21
