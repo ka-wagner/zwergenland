@@ -4,7 +4,7 @@ title: "Konzeption"
 draft: false
 ---
 
-# Unsere Konzeption
+## Unsere Konzeption
 
 Die Konzeption und das Leitbild unserer pädagogischen Arbeit können Sie als PDF herunterladen.
 

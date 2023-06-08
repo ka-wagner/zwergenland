@@ -4,7 +4,7 @@ title: "Newsletter Anmeldungen"
 draft: false
 ---
 
-## Newsletter Verein
+## Newsletter zu Vereinsthemen
 
 Hier teilt der Vorstand wichtige Informationen aus der Vereins- und Vorstandsarbeit.
 
