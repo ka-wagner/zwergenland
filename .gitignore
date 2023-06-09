@@ -2,3 +2,5 @@ public/
 resources/
 .vscode/
 static/_gen/
+.hugo_build.lock
+hugo/
