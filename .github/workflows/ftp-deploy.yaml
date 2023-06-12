@@ -26,12 +26,9 @@ jobs:
       run: hugo -D --minify
 
     - name: Deploy to FTP
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      uses: airvzxf/ftp-deployment-action@latest
       with:
         server: ngcobalt387.manitu.net
-        port: 21
-        protocol: ftps
-        # server-dir: .
-        username: ${{ secrets.FTP_USERNAME }}
+        user: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: public/
