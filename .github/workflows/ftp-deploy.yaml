@@ -31,4 +31,4 @@ jobs:
         server: ngcobalt387.manitu.net
         user: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: public/
+        local_dir: "./public"
