@@ -4,3 +4,4 @@ resources/
 static/_gen/
 .hugo_build.lock
 hugo/
+hugo_0.123.8_windows-amd64/
