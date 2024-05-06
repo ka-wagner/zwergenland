@@ -6,7 +6,7 @@ draft: false
 
 ## Freiwilliges Soziales  (FSJ) oder Bundesfreiwilligendienst (BFD)
 
-Stelle dich der Herausforderung und starte dein Freiwilliges Soziales Jahr ab **1. September 2023** im Zwergenland in Chemnitz. 
+Stelle dich der Herausforderung und starte dein Freiwilliges Soziales Jahr ab **1. September 2024** im Zwergenland in Chemnitz. 
 
 Bist du bereit für eine unvergessliche Zeit im Bereich Kinderbetreuung? Wenn ja, dann haben wir genau das Richtige für dich!
 
