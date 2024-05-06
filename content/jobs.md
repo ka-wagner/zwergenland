@@ -4,7 +4,7 @@ title: "Jobs und Freiwilligendienste"
 draft: false
 ---
 
-## Freiwilliges Soziales  (FSJ) oder Bundesfreiwilligendienst (BFD)
+## Freiwilliges Soziales Jahr (FSJ) oder Bundesfreiwilligendienst (BFD)
 
 Stelle dich der Herausforderung und starte dein Freiwilliges Soziales Jahr ab **1. September 2024** im Zwergenland in Chemnitz. 
 
