@@ -9,11 +9,11 @@ theme = "hugo-html5up-alpha"
 disqusShortname = ""
 
 [params]
-  description = "Elternvereinsgeführte Kindertagesstätte in Chemnitz"
-  author = "[Hugo Port]: (https://github.com/dewittn/hugo-html5up-alpha)"
-  copyright = "© Zwergenland Chemnitz e.V."
-  design = "Design: [HTML5 UP](http://html5up.net/)"
-  #mainSections = ["highlight"]
+description = "Elternvereinsgeführte Kindertagesstätte in Chemnitz"
+author = "[Hugo Port]: (https://github.com/dewittn/hugo-html5up-alpha)"
+copyright = "© Zwergenland Chemnitz e.V."
+design = "Design: [HTML5 UP](http://html5up.net/)"
+#mainSections = ["highlight"]
 
 ### Footer Social Media Links ###
 #[[params.share]]
@@ -34,46 +34,40 @@ disqusShortname = ""
 ### For Pages the .RelPermalink must match the menu .URL
 ### For sections the name/directory must match the menu .Identifier
 [menu]
-  [[menu.main]]
-    identifier = "konzeption"
-    name = "Konzeption"
-    url = "/konzeption/"
-    weight = 10
-  [[menu.main]]
-    identifier = "rundgang"
-    name = "Rundgang"
-    url = "/rundgang/"
-    weight = 30
-  [[menu.main]]
-    identifier = "verein"
-    name = "Verein"
-    url = "/verein/"
-    weight = 40
-  [[menu.main]]
-    identifier = "jobs"
-    name = "Jobs"
-    url = "/jobs/"
-    weight = 45
-  [[menu.main]]
-    parent = "verein"
-    identifier = "vorstand"
-    name = "Vorstand"
-    url = "/vorstand/"
-    weight = 53
-  # [[menu.main]]
-  #   parent = "verein"
-  #   identifier = "mitgliedwerden"
-  #   name = "Mitglied werden"
-  #   url = "#"
-  #   weight = 55
-  [[menu.main]]
-    parent = "verein"
-    identifier = "newsletter"
-    name = "Newsletter aus der Kita"
-    url = "/newsletter/"
-    weight = 56
-  [[menu.main]]
-    identifier = "impressum"
-    name = "Impressum"
-    url = "/kontakt/"
-    weight = 99
+[[menu.main]]
+identifier = "konzeption"
+name = "Konzeption"
+url = "/konzeption/"
+weight = 10
+[[menu.main]]
+identifier = "rundgang"
+name = "Rundgang"
+url = "/rundgang/"
+weight = 30
+[[menu.main]]
+identifier = "verein"
+name = "Verein"
+url = "/verein/"
+weight = 40
+[[menu.main]]
+identifier = "jobs"
+name = "Jobs"
+url = "/jobs/"
+weight = 45
+[[menu.main]]
+parent = "verein"
+identifier = "vorstand"
+name = "Vorstand"
+url = "/vorstand/"
+weight = 53
+# [[menu.main]]
+#   parent = "verein"
+#   identifier = "mitgliedwerden"
+#   name = "Mitglied werden"
+#   url = "#"
+#   weight = 55
+[[menu.main]]
+identifier = "impressum"
+name = "Impressum"
+url = "/kontakt/"
+weight = 99
